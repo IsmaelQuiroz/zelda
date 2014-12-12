@@ -17,7 +17,7 @@ var fondo = {
 var tifis={
 	x: 100,
 	y: 100,
-	velocidad: 2 0,
+	velocidad: 20,
 	frenteURL: "diana-frente.png",
 	frenteOK: false,
 	atrasURL: "diana-atras.png",
